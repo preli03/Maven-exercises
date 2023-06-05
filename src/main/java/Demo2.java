@@ -19,7 +19,7 @@ public class Demo2 {
         System.out.println("Flipped Case: " + flippedCase);
 
 
-        System.out.println(StringUtils.reverse(input));
         System.out.println("Reversed String: ");
+        System.out.println(StringUtils.reverse(input));
     }
 }
